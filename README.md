@@ -6,3 +6,8 @@ Download the **run.py** file from this repository and add it to your **df_linux*
 
 In PyLNP open **File** -> **Configure terminal...** and add the following in the text box.
 > `python run.py $` 
+
+Requirements
+------------
+* Python 2.7.x
+* xterm
